@@ -10,49 +10,79 @@
     <div class="album py-5 bg-body-tertiary">
         <div class="container">
             <div class="row row-cols-1 row-cols-md-2 g-4">
-                <!-- Card 1 -->
+                <!-- Card 10 -->
                 <div class="col">
-                    <a href="pure-grace.html" class="text-decoration-none text-dark">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
-                        <img src="../images/shop/Double_orchid_1.png" class="card-img-top" alt="Image 1">
+                        <img src="../images/shop/Triple_orchids_1.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">One Perfect Beauty</h5>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-                
-                <!-- Card 2 -->
-                <div class="col">
-                    <a href="pure-grace.html" class="text-decoration-none text-dark">
-                    <div class="card h-100">
-                        <img src="../images/shop/Double_orchid_2.png" class="card-img-top" alt="Image 2">
-                        <div class="card-body">
-                            <h5 class="card-title">A Pair of Perfection</h5>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-                
-                <!-- Card 3 -->
-                <div class="col">
-                    <a href="pure-grace.html" class="text-decoration-none text-dark">
-                    <div class="card h-100">
-                        <img src="../images/shop/Double_orchid_3.png" class="card-img-top" alt="Image 3">
-                        <div class="card-body">
-                            <h5 class="card-title">Thrice as Nice</h5>
+                            <h5 class="card-title">Triple 1</h5>
+                            <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>
                     </a>
                 </div>
 
-                <!-- Card 4-->
+                <!-- Card 11 -->
                 <div class="col">
-                    <a href="pure-grace.html" class="text-decoration-none text-dark">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
-                        <img src="../images/shop/Double_orchid_4.png" class="card-img-top" alt="Image 1">
+                        <img src="../images/shop/Triple_orchids_2.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Orchid Symphonys</h5>
+                            <h5 class="card-title">Triple 2</h5>
+                            <p class="card-text fw-bold">$195.00</p>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <!-- Card 12 -->
+                <div class="col">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
+                    <div class="card h-100">
+                        <img src="../images/shop/Triple_orchids_3.png" class="card-img-top" alt="Image 3">
+                        <div class="card-body">
+                            <h5 class="card-title">Triple 3</h5>
+                            <p class="card-text fw-bold">$195.00</p>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <!-- Card 13 -->
+                <div class="col">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
+                    <div class="card h-100">
+                        <img src="../images/shop/Triple_orchids_4.png" class="card-img-top" alt="Image 3">
+                        <div class="card-body">
+                            <h5 class="card-title">Triple 4</h5>
+                            <p class="card-text fw-bold">$195.00</p>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <!-- Card 14 -->
+                <div class="col">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
+                    <div class="card h-100">
+                        <img src="../images/shop/Triple_orchids_5.png" class="card-img-top" alt="Image 3">
+                        <div class="card-body">
+                            <h5 class="card-title">Triple 5</h5>
+                            <p class="card-text fw-bold">$195.00</p>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+
+                <!-- Card 15 -->
+                <div class="col">
+                    <a href="three_orchids.php" class="text-decoration-none text-dark">
+                    <div class="card h-100">
+                        <img src="../images/shop/Triple_orchids_6.png" class="card-img-top" alt="Image 3">
+                        <div class="card-body">
+                            <h5 class="card-title">Triple 6</h5>
+                            <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>
                     </a>

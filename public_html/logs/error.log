@@ -1,0 +1,1 @@
+[Mon Nov 04 22:50:23.901349 2024] [php:error] [pid 5382] [client 127.0.0.1:49456] script '/opt/homebrew/var/www/nvfloral/public_html/pages/work.php' not found or unable to stat, referer: http://nvfloral.local/pages/about.php
