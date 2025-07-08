@@ -24,7 +24,7 @@
                 <div class="navbar-nav">
                     <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'home.php') ? 'active' : ''; ?>" aria-current="page" href="home.php">Home</a>
                     <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? 'active' : ''; ?>" href="about.php">About me</a>
-                    <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'work.php') ? 'active' : ''; ?>" href="work.php">My work</a>
+                    <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'work.php') ? 'active' : ''; ?>" href="work.php">Orchids</a>
                     <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? 'active' : ''; ?>" href="contact.php">How to reach me</a>
                 </div>
             </div>
