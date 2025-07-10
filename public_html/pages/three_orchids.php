@@ -16,7 +16,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Triple_orchids_1.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Triple 1</h5>
+                            <h5 class="card-title">Modern round triple orchids</h5>
                             <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>
@@ -26,11 +26,11 @@
                 <!-- Card 11 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
-                    <div class="card h-100">
+                    <div class="card h-100 bg-dark">
                         <img src="../images/shop/Triple_orchids_2.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Triple 2</h5>
-                            <p class="card-text fw-bold">$195.00</p>
+                            <h5 class="card-title text-white">Ceramic gray triple orchids</h5>
+                            <p class="card-text fw-bold text-white">$195.00</p>
                         </div>
                     </div>
                     </a>
@@ -39,10 +39,10 @@
                 <!-- Card 12 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
-                    <div class="card h-100">
+                    <div class="card h-100 bg-light">
                         <img src="../images/shop/Triple_orchids_3.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Triple 3</h5>
+                            <h5 class="card-title">Gold round triple orchids</h5>
                             <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Triple_orchids_4.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Triple 4</h5>
+                            <h5 class="card-title">Square triple orchids</h5>
                             <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Triple_orchids_6.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Triple 6</h5>
+                            <h5 class="card-title">Round ceramic triple orchids</h5>
                             <p class="card-text fw-bold">$195.00</p>
                         </div>
                     </div>

@@ -54,7 +54,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Orchids_1.png" class="card-img-top" alt="Image 1">
                         <div class="card-body">
-                            <h5 class="card-title">Orchid Symphonys</h5>
+                            <h5 class="card-title">Orchid Symphony</h5>
                         </div>
                     </div>
                     </a>
