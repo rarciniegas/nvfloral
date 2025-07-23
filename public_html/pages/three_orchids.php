@@ -10,7 +10,7 @@
     <div class="album py-5 bg-body-tertiary">
         <div class="container">
             <div class="row row-cols-1 row-cols-md-2 g-4">
-                <!-- Card 10 -->
+                <!-- Card 1 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
@@ -23,7 +23,7 @@
                     </a>
                 </div>
 
-                <!-- Card 11 -->
+                <!-- Card 2 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100 bg-dark">
@@ -36,7 +36,7 @@
                     </a>
                 </div>
 
-                <!-- Card 12 -->
+                <!-- Card 3 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100 bg-light">
@@ -49,7 +49,7 @@
                     </a>
                 </div>
 
-                <!-- Card 13 -->
+                <!-- Card 4 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
@@ -62,7 +62,7 @@
                     </a>
                 </div>
 
-                <!-- Card 14 -->
+                <!-- Card 5 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
@@ -75,7 +75,7 @@
                     </a>
                 </div>
 
-                <!-- Card 15 -->
+                <!-- Card 6 -->
                 <div class="col">
                     <a href="three_orchids.php" class="text-decoration-none text-dark">
                     <div class="card h-100">

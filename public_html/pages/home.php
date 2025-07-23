@@ -18,7 +18,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Single_orchid_1.png" class="card-img-top" alt="Image 1">
                         <div class="card-body">
-                            <h5 class="card-title">One Perfect Beauty</h5>
+                            <h5 class="card-title text-center fs-1">Single Orchid</h5>
                         </div>
                     </div>
                     </a>
@@ -30,7 +30,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Double_orchid_1.png" class="card-img-top" alt="Image 2">
                         <div class="card-body">
-                            <h5 class="card-title">A Pair of Perfection</h5>
+                            <h5 class="card-title text-center fs-1">A Pair of Orchids</h5>
                         </div>
                     </div>
                     </a>
@@ -42,7 +42,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Triple_orchids_1.png" class="card-img-top" alt="Image 3">
                         <div class="card-body">
-                            <h5 class="card-title">Thrice as Nice</h5>
+                            <h5 class="card-title text-center fs-1">Three Orchids</h5>
                         </div>
                     </div>
                     </a>
@@ -54,7 +54,7 @@
                     <div class="card h-100">
                         <img src="../images/shop/Orchids_1.png" class="card-img-top" alt="Image 1">
                         <div class="card-body">
-                            <h5 class="card-title">Orchid Symphony</h5>
+                            <h5 class="card-title text-center fs-1">Orchid Symphony</h5>
                         </div>
                     </div>
                     </a>

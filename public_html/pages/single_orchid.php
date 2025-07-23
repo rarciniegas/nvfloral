@@ -39,8 +39,21 @@
                 <!-- Card 3 -->
                 <div class="col">
                     <a href="single_orchid.php" class="text-decoration-none text-dark">
+                    <div class="card h-100 bg-light">
+                        <img src="../images/shop/Single_orchid_8.png" class="card-img-top" alt="Image 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Single orchid in a pot</h5>
+                            <p class="card-text fw-bold">$110.00</p>
+                        </div>
+                    </div>
+                    </a>  
+                </div>      
+
+                <!-- Card 4 -->
+                <div class="col">
+                    <a href="single_orchid.php" class="text-decoration-none text-dark">     
                     <div class="card h-100">
-                        <img src="../images/shop/Single_orchid_3.png" class="card-img-top" alt="Image 1">
+                        <img src="../images/shop/Single_orchid_9.png" class="card-img-top" alt="Image 1">
                         <div class="card-body">
                             <h5 class="card-title">Gold orchids</h5>
                             <p class="card-text fw-bold">$110.00</p>
@@ -49,11 +62,11 @@
                     </a>
                 </div>
                 
-                <!-- Card 4 -->
+                <!-- Card 5 -->
                 <div class="col">
                     <a href="single_orchid.php" class="text-decoration-none text-dark">
                     <div class="card h-100">
-                        <img src="../images/shop/Single_orchid_5.png" class="card-img-top" alt="Image 1">
+                        <img src="../images/shop/Single_orchid_10.png" class="card-img-top" alt="Image 1">
                         <div class="card-body">
                             <h5 class="card-title">Square single orchid</h5>
                             <p class="card-text fw-bold">110.00</p>
@@ -61,8 +74,6 @@
                     </div>
                     </a>
                 </div>
-
-
 
             </div>
         </div>
